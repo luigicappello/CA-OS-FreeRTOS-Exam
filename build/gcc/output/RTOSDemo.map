@@ -535,7 +535,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x91 ./output/event_groups.o
  .debug_macro   0x00000000       0x19 ./output/event_groups.o
  .debug_line    0x00000000      0x767 ./output/event_groups.o
- .debug_str     0x00000000     0xcb40 ./output/event_groups.o
+ .debug_str     0x00000000     0xcb45 ./output/event_groups.o
  .comment       0x00000000       0x46 ./output/event_groups.o
  .debug_frame   0x00000000      0x1a4 ./output/event_groups.o
  .ARM.attributes
@@ -654,7 +654,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x120 ./output/stream_buffer.o
  .debug_macro   0x00000000       0x18 ./output/stream_buffer.o
  .debug_line    0x00000000      0xb2b ./output/stream_buffer.o
- .debug_str     0x00000000     0xccd1 ./output/stream_buffer.o
+ .debug_str     0x00000000     0xccd6 ./output/stream_buffer.o
  .comment       0x00000000       0x46 ./output/stream_buffer.o
  .debug_frame   0x00000000      0x348 ./output/stream_buffer.o
  .ARM.attributes
@@ -887,7 +887,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x19 ./output/AbortDelay.o
  .debug_macro   0x00000000       0x18 ./output/AbortDelay.o
  .debug_line    0x00000000      0x732 ./output/AbortDelay.o
- .debug_str     0x00000000     0xd18e ./output/AbortDelay.o
+ .debug_str     0x00000000     0xd193 ./output/AbortDelay.o
  .comment       0x00000000       0x46 ./output/AbortDelay.o
  .debug_frame   0x00000000      0x218 ./output/AbortDelay.o
  .ARM.attributes
@@ -982,7 +982,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x120 ./output/BlockQ.o
  .debug_macro   0x00000000       0x87 ./output/BlockQ.o
  .debug_line    0x00000000      0x52b ./output/BlockQ.o
- .debug_str     0x00000000     0xc660 ./output/BlockQ.o
+ .debug_str     0x00000000     0xc665 ./output/BlockQ.o
  .comment       0x00000000       0x46 ./output/BlockQ.o
  .debug_frame   0x00000000       0xa0 ./output/BlockQ.o
  .ARM.attributes
@@ -1051,7 +1051,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x120 ./output/blocktim.o
  .debug_macro   0x00000000       0x87 ./output/blocktim.o
  .debug_line    0x00000000      0x578 ./output/blocktim.o
- .debug_str     0x00000000     0x9791 ./output/blocktim.o
+ .debug_str     0x00000000     0x9796 ./output/blocktim.o
  .comment       0x00000000       0x46 ./output/blocktim.o
  .debug_frame   0x00000000       0xc0 ./output/blocktim.o
  .ARM.attributes
@@ -1114,7 +1114,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x87 ./output/countsem.o
  .debug_macro   0x00000000       0xa1 ./output/countsem.o
  .debug_line    0x00000000      0x3c2 ./output/countsem.o
- .debug_str     0x00000000     0xa05c ./output/countsem.o
+ .debug_str     0x00000000     0xa061 ./output/countsem.o
  .comment       0x00000000       0x46 ./output/countsem.o
  .debug_frame   0x00000000       0xc4 ./output/countsem.o
  .ARM.attributes
@@ -1211,7 +1211,7 @@ Discarded input sections
  .debug_macro   0x00000000       0xc3 ./output/death.o
  .debug_macro   0x00000000      0x120 ./output/death.o
  .debug_line    0x00000000      0x47e ./output/death.o
- .debug_str     0x00000000     0xbd11 ./output/death.o
+ .debug_str     0x00000000     0xbd16 ./output/death.o
  .comment       0x00000000       0x46 ./output/death.o
  .debug_frame   0x00000000       0x98 ./output/death.o
  .ARM.attributes
@@ -1328,7 +1328,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x87 ./output/dynamic.o
  .debug_macro   0x00000000       0xa1 ./output/dynamic.o
  .debug_line    0x00000000      0x5ac ./output/dynamic.o
- .debug_str     0x00000000     0xd1d6 ./output/dynamic.o
+ .debug_str     0x00000000     0xd1db ./output/dynamic.o
  .comment       0x00000000       0x46 ./output/dynamic.o
  .debug_frame   0x00000000       0xfc ./output/dynamic.o
  .ARM.attributes
@@ -1417,7 +1417,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x91 ./output/EventGroupsDemo.o
  .debug_macro   0x00000000       0x19 ./output/EventGroupsDemo.o
  .debug_line    0x00000000      0x7dd ./output/EventGroupsDemo.o
- .debug_str     0x00000000     0x9d59 ./output/EventGroupsDemo.o
+ .debug_str     0x00000000     0x9d5e ./output/EventGroupsDemo.o
  .comment       0x00000000       0x46 ./output/EventGroupsDemo.o
  .debug_frame   0x00000000      0x178 ./output/EventGroupsDemo.o
  .ARM.attributes
@@ -1538,7 +1538,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x87 ./output/GenQTest.o
  .debug_macro   0x00000000       0xa1 ./output/GenQTest.o
  .debug_line    0x00000000      0x9a1 ./output/GenQTest.o
- .debug_str     0x00000000     0xd2f8 ./output/GenQTest.o
+ .debug_str     0x00000000     0xd2fd ./output/GenQTest.o
  .comment       0x00000000       0x46 ./output/GenQTest.o
  .debug_frame   0x00000000      0x148 ./output/GenQTest.o
  .ARM.attributes
@@ -1623,7 +1623,7 @@ Discarded input sections
  .debug_macro   0x00000000       0xc3 ./output/integer.o
  .debug_macro   0x00000000      0x120 ./output/integer.o
  .debug_line    0x00000000      0x463 ./output/integer.o
- .debug_str     0x00000000     0xbd62 ./output/integer.o
+ .debug_str     0x00000000     0xbd67 ./output/integer.o
  .comment       0x00000000       0x46 ./output/integer.o
  .debug_frame   0x00000000       0x7c ./output/integer.o
  .ARM.attributes
@@ -1885,7 +1885,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x87 ./output/IntSemTest.o
  .debug_macro   0x00000000       0xa1 ./output/IntSemTest.o
  .debug_line    0x00000000      0x6e7 ./output/IntSemTest.o
- .debug_str     0x00000000     0xd1f5 ./output/IntSemTest.o
+ .debug_str     0x00000000     0xd1fa ./output/IntSemTest.o
  .comment       0x00000000       0x46 ./output/IntSemTest.o
  .debug_frame   0x00000000      0x110 ./output/IntSemTest.o
  .ARM.attributes
@@ -1996,7 +1996,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x18 ./output/MessageBufferAMP.o
  .debug_macro   0x00000000       0x6d ./output/MessageBufferAMP.o
  .debug_line    0x00000000      0x59a ./output/MessageBufferAMP.o
- .debug_str     0x00000000     0xcee6 ./output/MessageBufferAMP.o
+ .debug_str     0x00000000     0xceeb ./output/MessageBufferAMP.o
  .comment       0x00000000       0x46 ./output/MessageBufferAMP.o
  .debug_frame   0x00000000       0xe8 ./output/MessageBufferAMP.o
  .ARM.attributes
@@ -2135,7 +2135,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x18 ./output/MessageBufferDemo.o
  .debug_macro   0x00000000       0x6d ./output/MessageBufferDemo.o
  .debug_line    0x00000000      0xa4b ./output/MessageBufferDemo.o
- .debug_str     0x00000000     0xd5cf ./output/MessageBufferDemo.o
+ .debug_str     0x00000000     0xd5d4 ./output/MessageBufferDemo.o
  .comment       0x00000000       0x46 ./output/MessageBufferDemo.o
  .debug_frame   0x00000000      0x18c ./output/MessageBufferDemo.o
  .ARM.attributes
@@ -2228,7 +2228,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x120 ./output/PollQ.o
  .debug_macro   0x00000000       0x87 ./output/PollQ.o
  .debug_line    0x00000000      0x4c2 ./output/PollQ.o
- .debug_str     0x00000000     0xc674 ./output/PollQ.o
+ .debug_str     0x00000000     0xc679 ./output/PollQ.o
  .comment       0x00000000       0x46 ./output/PollQ.o
  .debug_frame   0x00000000       0x9c ./output/PollQ.o
  .ARM.attributes
@@ -2333,7 +2333,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x87 ./output/QPeek.o
  .debug_macro   0x00000000       0xa1 ./output/QPeek.o
  .debug_line    0x00000000      0x5d5 ./output/QPeek.o
- .debug_str     0x00000000     0xd047 ./output/QPeek.o
+ .debug_str     0x00000000     0xd04c ./output/QPeek.o
  .comment       0x00000000       0x46 ./output/QPeek.o
  .debug_frame   0x00000000       0xd4 ./output/QPeek.o
  .ARM.attributes
@@ -2392,7 +2392,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x120 ./output/QueueOverwrite.o
  .debug_macro   0x00000000       0x87 ./output/QueueOverwrite.o
  .debug_line    0x00000000      0x34f ./output/QueueOverwrite.o
- .debug_str     0x00000000     0x95eb ./output/QueueOverwrite.o
+ .debug_str     0x00000000     0x95f0 ./output/QueueOverwrite.o
  .comment       0x00000000       0x46 ./output/QueueOverwrite.o
  .debug_frame   0x00000000       0xa0 ./output/QueueOverwrite.o
  .ARM.attributes
@@ -2545,7 +2545,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x120 ./output/QueueSet.o
  .debug_macro   0x00000000       0x87 ./output/QueueSet.o
  .debug_line    0x00000000      0xac8 ./output/QueueSet.o
- .debug_str     0x00000000     0xd061 ./output/QueueSet.o
+ .debug_str     0x00000000     0xd066 ./output/QueueSet.o
  .comment       0x00000000       0x46 ./output/QueueSet.o
  .debug_frame   0x00000000      0x244 ./output/QueueSet.o
  .ARM.attributes
@@ -2651,7 +2651,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x120 ./output/QueueSetPolling.o
  .debug_macro   0x00000000       0x87 ./output/QueueSetPolling.o
  .debug_line    0x00000000      0x4dd ./output/QueueSetPolling.o
- .debug_str     0x00000000     0xca7d ./output/QueueSetPolling.o
+ .debug_str     0x00000000     0xca82 ./output/QueueSetPolling.o
  .comment       0x00000000       0x46 ./output/QueueSetPolling.o
  .debug_frame   0x00000000       0x90 ./output/QueueSetPolling.o
  .ARM.attributes
@@ -2729,7 +2729,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x87 ./output/recmutex.o
  .debug_macro   0x00000000       0xa1 ./output/recmutex.o
  .debug_line    0x00000000      0x40d ./output/recmutex.o
- .debug_str     0x00000000     0xa202 ./output/recmutex.o
+ .debug_str     0x00000000     0xa207 ./output/recmutex.o
  .comment       0x00000000       0x46 ./output/recmutex.o
  .debug_frame   0x00000000       0xbc ./output/recmutex.o
  .ARM.attributes
@@ -2822,7 +2822,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x87 ./output/semtest.o
  .debug_macro   0x00000000       0xa1 ./output/semtest.o
  .debug_line    0x00000000      0x537 ./output/semtest.o
- .debug_str     0x00000000     0xd08f ./output/semtest.o
+ .debug_str     0x00000000     0xd094 ./output/semtest.o
  .comment       0x00000000       0x46 ./output/semtest.o
  .debug_frame   0x00000000       0x80 ./output/semtest.o
  .ARM.attributes
@@ -2926,7 +2926,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x97 ./output/StaticAllocation.o
  .debug_macro   0x00000000       0x19 ./output/StaticAllocation.o
  .debug_line    0x00000000      0x7e2 ./output/StaticAllocation.o
- .debug_str     0x00000000     0xb259 ./output/StaticAllocation.o
+ .debug_str     0x00000000     0xb25e ./output/StaticAllocation.o
  .comment       0x00000000       0x46 ./output/StaticAllocation.o
  .debug_frame   0x00000000      0x2d4 ./output/StaticAllocation.o
  .ARM.attributes
@@ -3071,7 +3071,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x120 ./output/StreamBufferDemo.o
  .debug_macro   0x00000000       0x18 ./output/StreamBufferDemo.o
  .debug_line    0x00000000      0xce9 ./output/StreamBufferDemo.o
- .debug_str     0x00000000     0xcda2 ./output/StreamBufferDemo.o
+ .debug_str     0x00000000     0xcda7 ./output/StreamBufferDemo.o
  .comment       0x00000000       0x46 ./output/StreamBufferDemo.o
  .debug_frame   0x00000000      0x1b0 ./output/StreamBufferDemo.o
  .ARM.attributes
@@ -3180,7 +3180,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x120 ./output/StreamBufferInterrupt.o
  .debug_macro   0x00000000       0x18 ./output/StreamBufferInterrupt.o
  .debug_line    0x00000000      0x517 ./output/StreamBufferInterrupt.o
- .debug_str     0x00000000     0xc5d8 ./output/StreamBufferInterrupt.o
+ .debug_str     0x00000000     0xc5dd ./output/StreamBufferInterrupt.o
  .comment       0x00000000       0x46 ./output/StreamBufferInterrupt.o
  .debug_frame   0x00000000       0xa0 ./output/StreamBufferInterrupt.o
  .ARM.attributes
@@ -3275,7 +3275,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x120 ./output/TaskNotify.o
  .debug_macro   0x00000000       0x91 ./output/TaskNotify.o
  .debug_line    0x00000000      0x828 ./output/TaskNotify.o
- .debug_str     0x00000000     0xb915 ./output/TaskNotify.o
+ .debug_str     0x00000000     0xb91a ./output/TaskNotify.o
  .comment       0x00000000       0x46 ./output/TaskNotify.o
  .debug_frame   0x00000000      0x140 ./output/TaskNotify.o
  .ARM.attributes
@@ -3389,7 +3389,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x120 ./output/TaskNotifyArray.o
  .debug_macro   0x00000000       0x91 ./output/TaskNotifyArray.o
  .debug_line    0x00000000      0xe6c ./output/TaskNotifyArray.o
- .debug_str     0x00000000     0xba27 ./output/TaskNotifyArray.o
+ .debug_str     0x00000000     0xba2c ./output/TaskNotifyArray.o
  .comment       0x00000000       0x46 ./output/TaskNotifyArray.o
  .debug_frame   0x00000000      0x1e0 ./output/TaskNotifyArray.o
  .ARM.attributes
@@ -3534,7 +3534,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x120 ./output/TimerDemo.o
  .debug_macro   0x00000000       0x91 ./output/TimerDemo.o
  .debug_line    0x00000000      0xeb7 ./output/TimerDemo.o
- .debug_str     0x00000000     0xc9f5 ./output/TimerDemo.o
+ .debug_str     0x00000000     0xc9fa ./output/TimerDemo.o
  .comment       0x00000000       0x46 ./output/TimerDemo.o
  .debug_frame   0x00000000      0x29c ./output/TimerDemo.o
  .ARM.attributes
@@ -5276,19 +5276,19 @@ LOAD linker stubs
  .debug_line    0x00005823      0x2dc ./output/startup_gcc.o
  .debug_line    0x00005aff      0x413 ./output/printf-stdarg.o
 
-.debug_str      0x00000000    0x1d24e
- .debug_str     0x00000000    0x1d24e ./output/tasks.o
-                               0xdd82 (size before relaxing)
- .debug_str     0x0001d24e     0xaa4b ./output/list.o
- .debug_str     0x0001d24e     0xd3e5 ./output/queue.o
- .debug_str     0x0001d24e     0xd63e ./output/timers.o
- .debug_str     0x0001d24e     0xc227 ./output/heap_4.o
- .debug_str     0x0001d24e     0x93b7 ./output/port.o
- .debug_str     0x0001d24e     0xcfcd ./output/IntQueue.o
- .debug_str     0x0001d24e    0x12348 ./output/IntQueueTimer.o
- .debug_str     0x0001d24e     0xc78a ./output/main.o
- .debug_str     0x0001d24e     0x765b ./output/startup_gcc.o
- .debug_str     0x0001d24e     0x3094 ./output/printf-stdarg.o
+.debug_str      0x00000000    0x1d253
+ .debug_str     0x00000000    0x1d253 ./output/tasks.o
+                               0xdd87 (size before relaxing)
+ .debug_str     0x0001d253     0xaa50 ./output/list.o
+ .debug_str     0x0001d253     0xd3ea ./output/queue.o
+ .debug_str     0x0001d253     0xd643 ./output/timers.o
+ .debug_str     0x0001d253     0xc22c ./output/heap_4.o
+ .debug_str     0x0001d253     0x93bc ./output/port.o
+ .debug_str     0x0001d253     0xcfd2 ./output/IntQueue.o
+ .debug_str     0x0001d253    0x1234d ./output/IntQueueTimer.o
+ .debug_str     0x0001d253     0xc78f ./output/main.o
+ .debug_str     0x0001d253     0x7660 ./output/startup_gcc.o
+ .debug_str     0x0001d253     0x3099 ./output/printf-stdarg.o
 
 .comment        0x00000000       0x45
  .comment       0x00000000       0x45 ./output/tasks.o
