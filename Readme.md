@@ -22,4 +22,5 @@
 2. Copy this repository in the FReeRTOS folder you downloaded prevoiusly, under the path  ```FreeRTOS/Demo/CORTEX_MPS2_QEMU_IAR_GCC``` copy and replace the folder ```CORTEX_MPS2_QEMU_IAR_GCC```
 3. Open VSCode under the folder ```FreeRTOS/Demo/CORTEX_MPS2_QEMU_IAR_GCC```.
 4. Open ```.vscode/launch.json```, and ensure the ```miDebuggerPath``` variable is set to the path where arm-none-eabi-gdb is on your machine. You can check typing on your terminal ```which arm-none-eabi-gdb```
-5. On the VSCode left side panel, select the “Run and Debug” button. Then select “Launch QEMU RTOSDemo” from the dropdown on the top right and press the play button. This will build, run, and attach a debugger to the demo program.
+5. Browse into /build/gcc and right click on Makefile, and open in a terminal. After that launch ```make clean```
+6. On the VSCode left side panel, select the “Run and Debug” button. Then select “Launch QEMU RTOSDemo” from the dropdown on the top right and press the play button. This will build, run, and attach a debugger to the demo program.
